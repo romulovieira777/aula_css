@@ -1,0 +1,29 @@
+body{
+    background: rgb(87, 2, 2);
+}
+h2{
+    font-size: 100px;
+    font-family: Verdana;
+    color: white;
+}
+p{
+    font-size: 60px;
+    font-family: Verdana;
+    color:white ;
+}
+p.formato{
+    color: red;
+    font-size: 55px;
+    font-family: Verdana;    
+}
+.centro{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    font-family: Verdana;
+    color: white;
+}
+h2, h3, h4{
+    color: white;
+}
